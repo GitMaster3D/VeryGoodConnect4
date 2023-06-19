@@ -1,0 +1,45 @@
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\bin\Debug\net6.0\Connect4Server.exe
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\bin\Debug\net6.0\Connect4Server.deps.json
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\bin\Debug\net6.0\Connect4Server.runtimeconfig.json
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\bin\Debug\net6.0\Connect4Server.dll
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\bin\Debug\net6.0\ref\Connect4Server.dll
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\bin\Debug\net6.0\Connect4Server.pdb
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.csproj.AssemblyReference.cache
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.AssemblyInfoInputs.cache
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.AssemblyInfo.cs
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.dll
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\ref\Connect4Server.dll
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.pdb
+C:\Users\Michel\Source\Repos\GitMaster3D\Connect4Server\Connect4Server\obj\Debug\net6.0\Connect4Server.genruntimeconfig.cache
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.exe
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.deps.json
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.runtimeconfig.json
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\bin\Debug\net6.0\ref\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.pdb
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.csproj.AssemblyReference.cache
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.AssemblyInfoInputs.cache
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.AssemblyInfo.cs
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\ref\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.pdb
+C:\Users\Michel\Desktop\4Gewinnt _Projekt_Michel_Wagner\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.genruntimeconfig.cache
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.exe
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.deps.json
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.runtimeconfig.json
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\bin\Debug\net6.0\ref\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\bin\Debug\net6.0\Connect4Server.pdb
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.csproj.AssemblyReference.cache
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.AssemblyInfoInputs.cache
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.AssemblyInfo.cs
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\ref\Connect4Server.dll
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.pdb
+C:\Users\Michel\Desktop\4Gewinnt\Server\Connect4Server\obj\Debug\net6.0\Connect4Server.genruntimeconfig.cache
