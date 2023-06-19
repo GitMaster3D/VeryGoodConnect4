@@ -1,0 +1,120 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>_4Gewinnt__nicht_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Configurations>Debug;Release;Server</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenTK.WinForms" Version="4.0.0-pre.6" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.0.1" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Shaders">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Shaders\**">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+	 
+
+	  <None Update="Images">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Images\**">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+
+	  <None Update="Server">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Server\**">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+
+	  <None Update="Models">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Shaders - Copy\Background.frag">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Shaders - Copy\Background.vert">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Shaders - Copy\Background2.frag">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Shaders - Copy\Background2.vert">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Server\Default.frag">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Server\Default.vert">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Server\Postprocess.frag">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+	  <None Update="Server\Postprocess.vert">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Models\**">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="TurtorialWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChatWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PreGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,167 @@
+02.05.2023:
+
+Start Projekt.
+
+Aufsetzen eines Forms Fensters mit open GL
+Rendern eines 4-ecks.
+
+Probleme: Rotation, wie?
+
+03.05.2023:
+
+Transformation und texturen
+Rotationsproblem gelöst, mit OpenGL matrix mathe
+
+Probleme: texturen laden nicht
+
+05. 05. 2023:
+
+Texturen laden jetzt fernünftig (GL.ActiveTexture(TextureUnit.Texture0 + textureUnit); 
+hatte gefehlt, was im Turtorial nicht erwähnt wurde).
+
+3D objekte (Würfel).
+
+Probleme: Modelle laden ist schwieriger als angenommen
+
+07.05.2023
+
+Model loading (obj dateien)
+
+Probleme: tex coords werden nicht sauber geladen (mehr als in der datei, falsche koordinaten)
+
+13.05. 2023:
+
+Licht
+Materialien für licht
+Maus koordinaten in welt kordinaten übersetzten
+
+Probleme: Anfangs ein offset der nach außen immer breiter wurde.
+Nach langer fehlersuche ist mir aufgefallen, dass das seitenverhältniss
+falsch berechnet wurde (vom fenster anstatt von der Kamera)
+
+16.05.2023
+
+Grundlegende Funktionen des spiels (plazierbare münzen)
+Gewinnüberprüfung
+
+17.05.2023
+
+Simpler MinMax bot, funktioniert aber schlecht und hat bugs
+
+18.05.2023
+
+Möglichkeit postprocessingshader zu verwenden
+
+20.05.2023
+
+besser Funktionierender bot, der aber extrem dumm ist (Lässt den
+Spieler gewinnen, und verpasst seine Möglichkeit selber zu gewinnen etc.)
+
+26.05.2023
+
+Nach einfügen der "ImmediateThreat" methode ist der
+Bot deutlich besser, da er immer Verteidigt wenn er muss 
+und gewinnt wenn er kann, gewinnt relativ häufig wenn man nicht nicht
+aufpasst.
+Lässt sich momentan allerdings leicht baiten
+
+Kein lag bei 200+ searchdepth (Alpha beta pruning verbugged?)
+
+27.05.2023
+
+Arbeit am UI, Reset button, Menu Manager
+(Hauptmenü, Pregame menü für auswahl von spielerzahl und wer ein bot ist,
+auswählbare spielerfarben (von 7), belibige anzahl an spielern)
+
+31.06.2023
+
+Anfang mit Networking code, und dem Serverprojekt.
+Probleme: Schwierigkeiten mit wie das UI dafür
+angepasst werden soll (wie sollen spieler joinen etc.)
+
+03.06.2023
+Arbeit an Server und Client Kommunikation,
+Spieler können joinen, Farben werden Synchronisiert.
+Arbeit an Auswählen der Farben und entfernen
+von Spielern in online Games
+
+
+Benötigte erweiterungen:
+
+Handeln von wenn ein spieler die lobby verlässt
+Handeln von wenn ein client crashed
+Handeln von wenn der server schließt
+Handeln von wenn zu viele spieler hinzugefügt werden
+Handeln von Umbenennen von Spielern
+Handeln von aktivieren von bots in multiplayer
+Handeln von unentschieden
+
+Online Gameplay
+
+
+05.06.2023:
+
+Handeln von leaven.
+Back button fix (Exception wenn man
+eine lobby leaved und dann in einer neuen
+einen spieler entfernen will)
+
+06.06.2023:
+
+Handeln von ingame networking,
+Umbenennen von Spielern,
+Bot Toggeln
+
+07.06.2023:
+
+Handeln von Spiel inputs
+Networking Fixes (unendliche loops, 
+Crashes, synchonisationsprobleme die dafür sorgen dass
+daten in der falschen reihenfolge versendet werden)
+Anzeigen von welchem Client welcher Spieler angehört
+
+10.06.2023:
+
+versuch schatten hinzuzufügen
+
+Probleme:
+Schatten rendern nicht richtig.
+Alles ist komplett schwarz.
+
+11.06.2023:
+
+Spieler werden jetzt richtig entfernt wenn
+sie das spiel mittendrin verlassen.
+wenn das spiel endet werden alle nach nem kurzen delay
+zurück in die lobby geworfen
+
+Probleme: 
+-Unentschieden wird nicht erkannt
+-Umbenennen von spielern nur in singleplayer möglich
+-bots nur in singleplayer
+
+13.06.2023:
+
+Blocken von verbindungen während games
+Autoneustart / shutdown vom server wenn niemand verbunden ist
+
+14.06.2023:
+
+Fixen von crashes und 
+synchonisationsfehlern (Server hat willkürlich die runde gewechselt)
+Ingame Chat
+
+15.06.2023:
+
+verbesserungen am bot
+bot jetzt auch in online modus
+
+17.07.2023:
+
+Fixes von mehreren crashes, bugs etc.
+Limit von spielerzahl auf 4
+Design änderungen (Farben, schriftgrößen etc.)
+Messageboxen für verbinden und verlassen von server
+
+18.06.2023:
+Turtorial
